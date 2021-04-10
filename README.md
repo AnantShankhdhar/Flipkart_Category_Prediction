@@ -26,7 +26,10 @@ For cleaning and visualization:-
 
 <h2>Setting up the repository</h2>   
 <h3>Setting up cleaning.py</h3>   
-1)clone the repository   
-2)navigate to the repository on your machine
-3)open jupyter notebook by typing <h4>jupyter notebook</h4>  in terminal
+1)clone the repository  
+
+2)navigate to the repository on your machine   
+
+3)open jupyter notebook by typing <h4>jupyter notebook</h4>  in terminal 
+  
 4)open cleaning.py and run the cells
