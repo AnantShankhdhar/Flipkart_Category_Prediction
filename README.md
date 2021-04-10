@@ -10,6 +10,14 @@ To clone the repository type <h4>git clone https://github.com/AnantShankhdhar/Fl
 
 <h2>The approach has been discussed in detail in the file README.pdf </h2>
 
+Cleaning.ipynb- Used for cleaning the data
+
+LSTM_no_sampling.ipynb- LSTM implementation
+
+LSTM_sampling.ipynb- LSTM implementation with addressing class imbalance
+
+bert2.ipynb- BERT implementation
+
 The following python libraries were used and are required by the classifier:-   
 For cleaning and visualization:-   
 1)pandas   
