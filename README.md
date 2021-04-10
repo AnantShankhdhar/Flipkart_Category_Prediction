@@ -8,6 +8,8 @@ To clone the repository type <h4>git clone https://github.com/AnantShankhdhar/Fl
 
 <h2> Libraries used </h2>
 
+<h2>The approach has been discussed in detail in the file README.pdf </h2>
+
 The following python libraries were used and are required by the classifier:-   
 For cleaning and visualization:-   
 1)pandas   
