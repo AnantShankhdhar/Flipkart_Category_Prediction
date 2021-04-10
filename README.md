@@ -21,10 +21,14 @@ bert2.ipynb- BERT implementation
 <h2> Libraries used </h2>
 The following python libraries were used and are required by the classifier:-   
 For cleaning and visualization:-   
-1)pandas   
-2)nltk   
-3)spacy   
-4)matplotlib   
+1)pandas 
+  
+2)nltk  
+ 
+3)spacy  
+ 
+4)matplotlib  
+ 
 5)seaborn    
 
 For cleaning and visualization:-   
