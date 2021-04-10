@@ -31,7 +31,7 @@ For cleaning and visualization:-
 2)navigate to the repository on your machine   
 
 3)open jupyter notebook by typing <h4>jupyter notebook</h4>  in terminal 
-  
+
 4)open cleaning.py and run the cells
 
 <h3>Setting up colab notebooks</h3>   
@@ -41,6 +41,6 @@ For cleaning and visualization:-
 
 3)open the colab notebook in colab and mount your google drive
 
-4) Run the notebook.Do not run the training cell if you wish to use the trained model directly.
+4) Run the notebook.Do not run the training cell if you wish to use the trained model directly.Otherwise run all the cells
   
-4)open cleaning.py and run the cells
+
