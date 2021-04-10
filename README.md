@@ -33,3 +33,14 @@ For cleaning and visualization:-
 3)open jupyter notebook by typing <h4>jupyter notebook</h4>  in terminal 
   
 4)open cleaning.py and run the cells
+
+<h3>Setting up colab notebooks</h3>   
+1)go to this drive link https://drive.google.com/drive/folders/1t4Bn81u_3eVVIzSWpxycDWYD_PlretWA?usp=sharing. This file contains all the datasets as well as model files
+
+2)Add the directory shortcut to your personal google drive 
+
+3)open the colab notebook in colab and mount your google drive
+
+4) Run the notebook.Do not run the training cell if you wish to use the trained model directly.
+  
+4)open cleaning.py and run the cells
