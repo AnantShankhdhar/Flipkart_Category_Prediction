@@ -55,6 +55,6 @@ For training:-
 
 3)open the colab notebook in colab and mount your google drive
 
-4) Run the notebook.Do not run the training cell if you wish to use the trained model directly.Otherwise run all the cells
+4)Run the notebook.Do not run the training cell if you wish to use the trained model directly.Otherwise run all the cells
   
 
