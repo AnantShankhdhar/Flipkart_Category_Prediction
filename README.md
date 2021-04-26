@@ -1,6 +1,5 @@
 <h1>Flipkart Category Prediction</h1>
 
-This repository was made as an internship selection task for MIDAS lab, IIIT Delhi  
 
 <h2> Cloning the repository </h2>
 
